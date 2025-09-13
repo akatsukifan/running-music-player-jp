@@ -46,6 +46,9 @@ Vue 3で開発された1時間タイマー付き音楽プレーヤー、ロー�
 - 問題：リソースパスに先頭スラッシュが含まれ404エラー
 - 解決：index.htmlリソース参照パスを修正
 - 検証：GitHub PagesとNetlifyへの正常デプロイ成功
+- **プロジェクトリンク:** https://github.com/akatsukifan/running-music-player-jp
+
+**デモページ:** https://storied-cannoli-ab574a.netlify.app/
 
 ## Piniaリファクタリング計画
 
